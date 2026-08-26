@@ -1,0 +1,13 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+  functions = "netlify/functions"
+
+# Single-page app: alle niet-API-routes naar index.html, zodat de eigen
+# routing binnen de React-app (Home/Catalogus/Admin/...) blijft werken.
+# /api/products en /api/orders worden al afgehandeld doordat de functions
+# zelf hun pad opgeven via `export const config = { path: "/api/..." }`.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
