@@ -202,7 +202,7 @@ const TRANSLATIONS = {
     footer_tagline: "Community-catalogus voor Pokémon, One Piece, Lorcana en Dragon Ball TCG. Bestelverzoeken worden persoonlijk door ons behandeld — geen webshop, geen online betaling.",
     footer_shop_heading: "Shop",
     footer_info_heading: "Informatie",
-    footer_bottom_note: "© {year} TCG Haven — bestelverzoeken zijn geen betalingen.",
+    footer_bottom_note: "© {year} MNJCollective — bestelverzoeken zijn geen betalingen.",
     footer_admin_link: "Beheer",
 
     // Admin — login
@@ -214,7 +214,7 @@ const TRANSLATIONS = {
     admin_back_to_site: "Terug naar website",
 
     // Admin — shell
-    admin_header_title: "TCG Haven — Beheer",
+    admin_header_title: "MNJCollective — Beheer",
     admin_view_site: "Bekijk website",
     admin_logout: "Uitloggen",
     admin_tab_products: "Producten",
@@ -231,7 +231,7 @@ const TRANSLATIONS = {
     invite_generate: "WhatsApp-link openen",
     invite_copy: "Link kopiëren",
     invite_copied: "Gekopieerd ✓",
-    invite_default_message: "Hoi{name}! Je bent uitgenodigd om te bestellen bij TCG Haven — bekijk de catalogus en plaats je bestelverzoek via {url}",
+    invite_default_message: "Hoi{name}! Je bent uitgenodigd om te bestellen bij MNJCollective — bekijk de catalogus en plaats je bestelverzoek via {url}",
 
     // Admin — producten
     admin_products_heading: "Producten ({count})",
@@ -474,7 +474,7 @@ const TRANSLATIONS = {
     footer_tagline: "Community-Katalog für Pokémon, One Piece, Lorcana und Dragon Ball TCG. Bestellanfragen werden persönlich von uns bearbeitet — kein Webshop, keine Online-Zahlung.",
     footer_shop_heading: "Shop",
     footer_info_heading: "Informationen",
-    footer_bottom_note: "© {year} TCG Haven — Bestellanfragen sind keine Zahlungen.",
+    footer_bottom_note: "© {year} MNJCollective — Bestellanfragen sind keine Zahlungen.",
     footer_admin_link: "Verwaltung",
 
     admin_login_title: "Verwaltungsbereich",
@@ -484,7 +484,7 @@ const TRANSLATIONS = {
     admin_login_button: "Anmelden",
     admin_back_to_site: "Zurück zur Website",
 
-    admin_header_title: "TCG Haven — Verwaltung",
+    admin_header_title: "MNJCollective — Verwaltung",
     admin_view_site: "Website ansehen",
     admin_logout: "Abmelden",
     admin_tab_products: "Produkte",
@@ -501,7 +501,7 @@ const TRANSLATIONS = {
     invite_generate: "WhatsApp-Link öffnen",
     invite_copy: "Link kopieren",
     invite_copied: "Kopiert ✓",
-    invite_default_message: "Hallo{name}! Du bist eingeladen, bei TCG Haven zu bestellen — sieh dir den Katalog an und sende deine Bestellanfrage über {url}",
+    invite_default_message: "Hallo{name}! Du bist eingeladen, bei MNJCollective zu bestellen — sieh dir den Katalog an und sende deine Bestellanfrage über {url}",
 
     admin_products_heading: "Produkte ({count})",
     admin_new_product: "Neues Produkt",
@@ -740,7 +740,7 @@ const TRANSLATIONS = {
     footer_tagline: "Community catalog for Pokémon, One Piece, Lorcana and Dragon Ball TCG. Order requests are handled by us personally — no webshop, no online payment.",
     footer_shop_heading: "Shop",
     footer_info_heading: "Information",
-    footer_bottom_note: "© {year} TCG Haven — order requests are not payments.",
+    footer_bottom_note: "© {year} MNJCollective — order requests are not payments.",
     footer_admin_link: "Admin",
 
     admin_login_title: "Admin area",
@@ -750,7 +750,7 @@ const TRANSLATIONS = {
     admin_login_button: "Log in",
     admin_back_to_site: "Back to website",
 
-    admin_header_title: "TCG Haven — Admin",
+    admin_header_title: "MNJCollective — Admin",
     admin_view_site: "View website",
     admin_logout: "Log out",
     admin_tab_products: "Products",
@@ -767,7 +767,7 @@ const TRANSLATIONS = {
     invite_generate: "Open WhatsApp link",
     invite_copy: "Copy link",
     invite_copied: "Copied ✓",
-    invite_default_message: "Hi{name}! You're invited to order from TCG Haven — check out the catalog and send your order request via {url}",
+    invite_default_message: "Hi{name}! You're invited to order from MNJCollective — check out the catalog and send your order request via {url}",
 
     admin_products_heading: "Products ({count})",
     admin_new_product: "New product",
@@ -894,7 +894,7 @@ const EMAILJS_CONFIG = {
 // tegenstelling tot de client-side check uit de eerdere artifact-versie.
 
 const SHOP_EMAIL = "info@tcghaven.nl";
-const SHOP_NAME = "TCG Haven";
+const SHOP_NAME = "MNJCollective";
 
 // De e-mail naar de shop en de mailto-fallback blijven bewust altijd in het
 // Nederlands, ongeacht de taal die een bezoeker koos — zo blijven binnen-
