@@ -1,4 +1,4 @@
-# TCG Haven — bestel-app (Netlify-versie)
+# MNJCollective — bestel-app (Netlify-versie)
 
 Deze map is een volwaardig, deploybaar project (geen los .jsx-bestand). Netlify
 bouwt dit automatisch tot een echte website + backend.
